@@ -2,6 +2,8 @@
 
 Este é um desafio do Frontend Mentor para criar um componente de código QR.
 
+<img src="./qr-code.png" alt="imagem da tela do projeto">
+
 ## Descrição
 
 O desafio consiste em criar um componente de código QR e exibi-lo em uma página web. O código QR é usado para redirecionar os usuários para o site do Frontend Mentor.
